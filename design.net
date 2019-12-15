@@ -1,0 +1,17 @@
+* C:\Users\Laf\OneDrive\05_Technolaf\borne_l2\simulation_pilot.sxsch
+*#SIMETRIX
+V1 V1_P 0 5 Pulse(-12 10.6 0 5u 5u 500u 1m)
+V2 R5_P 0 3
+R1 R2_P 0 2.74k
+R2 R2_P V1_P 700
+R3 R2_P R3_N 200k
+R4 R3_N 0 51k
+R5 R5_P R3_N 51k
+R6 R2_P 0 1.3k
+D1 0 R2_P D1N4148
+C1 R3_N 0 1n  
+.GRAPH V1_P axisType="auto" persistence=-1 curveLabel="pwm" xLog="auto" yLog="auto"  nowarn=true
+.GRAPH R2_P axisType="auto" persistence=-1 curveLabel="pillot" xLog="auto" yLog="auto"  nowarn=true
+.GRAPH R3_N axisType="auto" persistence=-1 curveLabel="adc." xLog="auto" yLog="auto"  nowarn=true
+.TRAN 0 100m 90m
+
