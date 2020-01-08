@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\Laf\OneDrive\05_Technolaf\borne_l2\PCB1.PcbDoc
+DRC Rules Export File for PCB: C:\Users\Laf\OneDrive\05_Technolaf\evse_technolaf_hw\PCB1.PcbDoc
 RuleKind=Clearance|RuleName=Clearance Bottom Layer|Scope=Board|Minimum=8.00
 RuleKind=Clearance|RuleName=Clearance Top Layer|Scope=Board|Minimum=8.00
 RuleKind=Clearance|RuleName=Clearance HV|Scope=Board|Minimum=30.00

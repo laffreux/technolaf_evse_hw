@@ -1,0 +1,76 @@
+Altium Designer Pick and Place Locations
+C:\Users\Laf\OneDrive\05_Technolaf\evse_technolaf_hw\Project Outputs for EVL2\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       08-01-20
+Time:       07:59
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment          Layer    Footprint    Center-X(mil) Center-Y(mil) Rotation Description                  
+P4         WIFI             TopLayer HDR1X6       265.000       1420.000      90       Header, 6-Pin                
+C11        Cap              TopLayer 6-0805_M     4074.370      355.000       0        Capacitor                    
+S1         219-4MSTR        TopLayer DIPSW4       295.512       2660.000      0        DIP Switch                   
+R21        Res1             TopLayer 6-0805_M     4260.000      520.000       180      Resistor                     
+D18        MMBZ5V6ALT3G     TopLayer SOT23_914    3995.000      619.291       270      Zener Diode                  
+D17        MMBZ5V6ALT3G     TopLayer SOT23_914    3880.000      194.291       270      Zener Diode                  
+C12        Cap              TopLayer 6-0805_M     3245.000      925.000       90       Capacitor                    
+D16        SMBJ5.0CA        TopLayer SMB          2825.000      2826.417      90       Zener Diode                  
+D15        SMBJ5.0CA        TopLayer SMB          2825.000      3298.583      90       Zener Diode                  
+D12                         TopLayer LED_T13/4    3760.000      600.000       90       Typical INFRARED GaAs LED    
+D11                         TopLayer LED_T13/4    3760.000      1100.000      90       Typical INFRARED GaAs LED    
+D10                         TopLayer LED_T13/4    3765.000      1565.000      90       Typical INFRARED GaAs LED    
+D9                          TopLayer LED_T13/4    3760.000      2000.000      90       Typical INFRARED GaAs LED    
+D8         IN-S63AT5B       TopLayer LED_T13/4    3760.000      2500.000      90       Typical INFRARED GaAs LED    
+R8         Res1             TopLayer 6-0805_M     2490.000      3810.000      180      Resistor                     
+R20        Res1             TopLayer 6-0805_M     4074.370      450.000       360      Resistor                     
+R19        Res1             TopLayer 6-0805_M     4073.780      130.000       360      Resistor                     
+K1         EC2-5NU          TopLayer EC2-5NU      4900.000      3610.000      180      Dual-Pole Dual-Throw Relay   
+D13        MMBD914          TopLayer SOT23_914    4265.000      195.000       180      Default Diode                
+C10        Cap              TopLayer 6-0805_M     4073.780      255.000       360      Capacitor                    
+U2         LF353            TopLayer SO8_N        3020.512      975.000       0        IC OPAMP GP 700KHZ 8DIP      
+U1         AP1509-50        TopLayer SO8_N        5305.000      1030.000      360                                   
+P1         641828-1         TopLayer 641828-1     5370.000      2390.512      0        Header, 8-Pin                
+T1         FS16-400-C2      TopLayer FS16-400-C2  3640.000      3140.000      180                                   
+M1         STM32F0DISCOVERY TopLayer STM32F0DISCO 1340.000      2005.000      180                                   
+R18        Res1             TopLayer 6-0805_M     3525.000      605.000       180      Resistor                     
+R17        Res1             TopLayer 6-0805_M     3528.780      1100.000      360      Resistor                     
+R16        Res1             TopLayer 6-0805_M     2360.000      2090.630      90       Resistor                     
+R15        Res1             TopLayer 6-0805_M     3553.780      1600.000      360      Resistor                     
+R14        Res1             TopLayer 6-0805_M     2470.000      2090.630      90       Resistor                     
+R13        Res1             TopLayer 6-0805_M     2705.000      2085.630      90       Resistor                     
+R12        Res1             TopLayer 6-0805_M     2525.000      785.000       90       Resistor                     
+R11        Res1             TopLayer 6-0805_M     2595.000      2085.630      90       Resistor                     
+R10        Res1             TopLayer 6-0805_M     3545.000      2000.000      360      Resistor                     
+R9         Res1             TopLayer 6-0805_M     2385.000      778.780       270      Resistor                     
+R7         Res1             TopLayer 6-0805_M     3201.220      2500.000      180      Resistor                     
+R6         Res1             TopLayer 6-0805_M     2245.000      2905.000      90       Resistor                     
+R5         Res1             TopLayer 6-0805_M     2680.000      2903.780      90       Resistor                     
+R4         RNV14FAL1M00     TopLayer AXIAL-0.6    4750.000      2230.000      360      Resistor                     
+R3         Res1             TopLayer 6-0805_M     2245.000      3328.780      90       Resistor                     
+R2         Res1             TopLayer 6-0805_M     2680.000      3313.780      90       Resistor                     
+R1         RNV14FAL1M00     TopLayer AXIAL-0.6    4745.000      2455.000      360      Resistor                     
+Q1         DMN65D8L-7       TopLayer SOT23_914    2700.000      3770.512      0        N-Channel MOSFET             
+P2         1-770873-0       TopLayer MATENLOK_1X3 3058.000      325.000       270      Header, 3-Pin                
+L1         B78108E1683J009  TopLayer AXIAL-0.6    4895.000      480.000       270      Inductor                     
+F1         MF-RM025/240     TopLayer MF-RM025/240 4805.000      2765.000      270      MF-RM025/240-2               
+D7         SMBJ5.0CA        TopLayer SMB          3038.583      610.000       180      Default Diode                
+D6         MMBD914          TopLayer SOT23_914    4915.000      3190.709      90       Default Diode                
+D5         MMBD914LT1G      TopLayer SOT23_914    2550.000      2910.709      90       Default Diode                
+D4         MMBD914LT1G      TopLayer SOT23_914    2535.709      3332.401      180      Default Diode                
+D3         Bridge1          TopLayer KBP06M       3125.000      1985.000      90       Full Wave Diode Bridge       
+D2         BAT48            TopLayer AXIAL-0.6    5115.000      460.000       90       Schottky Diode               
+D1         Bridge1          TopLayer KBP06M       4430.000      1990.000      90       Full Wave Diode Bridge       
+C9         Cap              TopLayer 6-0805_M     2240.000      2085.630      90       Capacitor                    
+C8         Cap              TopLayer 6-0805_M     2690.000      786.220       90       Capacitor                    
+C7         Cap              TopLayer 6-0805_M     2385.000      2900.000      90       Capacitor                    
+C6         Cap              TopLayer 6-0805_M     485.000       440.000       270      Capacitor                    
+C5         Cap              TopLayer 6-0805_M     2390.000      3330.000      90       Capacitor                    
+C4         2200u            TopLayer RB7.6-15     3045.000      1530.000      180      Polarized Capacitor (Radial) 
+C3         Cap              TopLayer 6-0805_M     4600.000      1025.000      270      Capacitor                    
+C2         Cap Pol1         TopLayer RB0.1        4235.000      1027.500      90       Polarized Capacitor (Radial) 
+C1         Cap Pol1         TopLayer RB7.6-15     4375.000      1545.000      180      Polarized Capacitor (Radial) 
+P3         1-770874-1       TopLayer MATENLOK_2X2 4561.500      470.000       90       Header, 4-Pin                
